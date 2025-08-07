@@ -1,0 +1,181 @@
+{
+  "jobs": [
+    {
+      "id": "job_001",
+      "title": "Junior Data Scientist",
+      "company": "TechCorp",
+      "location": "Remote",
+      "experience_level": "Entry - Level",
+      "skills": ["Python", "SQL", "Machine Learning"],
+      "description": "We're looking for a junior data scientist to join our growing team..."
+    },
+    {
+      "id": "job_002",
+      "title": "Data Analyst",
+      "company": "DataInsights",
+      "location": "On-site",
+      "experience_level": "Mid - Level",
+      "skills": ["Excel", "Tableau", "Data Visualization"],
+      "description": "We need a data analyst to help us make data-driven decisions..."
+    },
+    {
+      "id": "job_003",
+      "title": "Senior Data Engineer",
+      "company": "DataSolutions",
+      "location": "Hybrid",
+      "experience_level": "Senior - Level",
+      "skills": ["Python", "Spark", "Data Warehousing"],
+      "description": "Looking for a senior data engineer to design and implement data pipelines..."
+    },
+    {
+        "id": "job_004",
+        "title": "Machine Learning Engineer",
+        "company": "AI Innovations",
+        "location": "Remote",
+        "experience_level": "Mid - Level",
+        "skills": ["Python", "TensorFlow", "Deep Learning"],
+        "description": "Seeking a machine learning engineer to develop and deploy ML models..."
+    },
+    {
+        "id": "job_005",
+        "title": "Data Scientist Intern",
+        "company": "FutureTech",
+        "location": "On-site",
+        "experience_level": "Internship",
+        "skills": ["Python", "Statistics", "Data Analysis"],
+        "description": "Join us as a data scientist intern to gain hands-on experience in data science..."
+    }
+
+  ],
+  "mentors": [
+    {
+      "id": "mentor_001",
+      "name": "Muthuswamy Kumar",
+      "expertise": ["Product Management", "Startups", "Leadership"],
+      "industry": "Technology",
+      "experience_years": "8 years",
+      "bio": "Product leader with experience scaling products from 0 to 1M users..."
+    },
+    {
+        "id": "mentor_002",
+        "name": "Aisha Patel",
+        "expertise": ["Data Science", "Machine Learning", "AI"],
+        "industry": "Technology",
+        "experience_years": "5 years",
+        "bio": "Data scientist with a passion for teaching and mentoring the next generation of data professionals..."
+    },
+    {
+        "id": "mentor_003",
+        "name": "Rajesh Singh",
+        "expertise": ["Software Development", "Agile Methodologies", "DevOps"],
+        "industry": "Technology",
+        "experience_years": "10 years",
+        "bio": "Senior software engineer with extensive experience in agile development and DevOps practices..."
+    },
+    {
+        "id": "mentor_004",
+        "name": "Fatima Khan",
+        "expertise": ["Cybersecurity", "Network Security", "Risk Management"],
+        "industry": "Technology",
+        "experience_years": "7 years",
+        "bio": "Cybersecurity expert with a focus on protecting digital assets and managing security risks..."
+    },
+    {
+        "id": "mentor_005",
+        "name": "Anil Gupta",
+        "expertise": ["Cloud Computing", "AWS", "Azure"],
+        "industry": "Technology",
+        "experience_years": "6 years",
+        "bio": "Cloud solutions architect with a strong background in AWS and Azure deployments..."
+    }
+  ],
+  "events": [
+    {
+      "id": "event_001",
+      "title": "AI in Career Development Webinar",
+      "date": "2025-08-15",
+      "format": "Virtual",
+      "topics": ["Artificial Intelligence", "Career Development"],
+      "description": "Learn how AI is transforming career development..."
+    },
+    {
+        "id": "event_002",
+        "title": "Data Science Bootcamp",
+        "date": "2025-09-01",
+        "format": "In-person",
+        "topics": ["Data Science", "Machine Learning"],
+        "description": "Join our intensive bootcamp to kickstart your data science career..."
+        },
+        {
+        "id": "event_003",
+        "title": "Tech Career Fair",
+        "date": "2025-10-05",
+        "format": "Hybrid",
+        "topics": ["Job Opportunities", "Networking"],
+        "description": "Connect with top tech companies and explore job opportunities..."
+    },
+    {
+        "id": "event_004",
+        "title": "AI Ethics Panel Discussion",
+        "date": "2025-11-10",
+        "format": "Virtual",
+        "topics": ["AI Ethics", "Responsible AI"],
+        "description": "Join industry experts as they discuss the ethical implications of AI technologies..."
+    },
+    {
+        "id": "event_005",
+        "title": "Cloud Computing Trends",
+        "date": "2025-12-01",
+        "format": "Virtual",
+        "topics": ["Cloud Computing", "AWS", "Azure"],
+        "description": "Explore the latest trends in cloud computing and their impact on businesses..."
+    }
+  ],
+  "courses": [
+    {
+      "id": "course_001",
+      "title": "Python for Data Analysis",
+      "provider": "DataLearn Academy",
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "skills": ["Python", "Pandas", "Data Analysis"],
+      "description": "Complete introduction to data analysis using Python..."
+    },
+    {
+        "id": "course_002",
+        "title": "Machine Learning Fundamentals",
+        "provider": "DataLearn Academy",
+        "duration": "8 weeks",
+        "level": "Intermediate",
+        "skills": ["Machine Learning", "Python", "Data Science"],
+        "description": "Learn the fundamentals of machine learning and how to apply them using Python..."
+    },
+    {
+        "id": "course_003",
+        "title": "Advanced SQL for Data Professionals",
+        "provider": "DataLearn Academy",
+        "duration": "4 weeks",
+        "level": "Advanced",
+        "skills": ["SQL", "Data Warehousing", "Database Management"],
+        "description": "Deep dive into advanced SQL techniques for data professionals..."
+    },
+    {
+        "id": "course_004",
+        "title": "AI and Machine Learning with TensorFlow",
+        "provider": "AI Academy",
+        "duration": "10 weeks",
+        "level": "Intermediate",
+        "skills": ["TensorFlow", "Deep Learning", "AI"],
+        "description": "Explore AI and machine learning concepts using TensorFlow..."
+    },
+    {
+        "id": "course_005",
+        "title": "Cloud Computing Essentials",
+        "provider": "CloudLearn Academy",
+        "duration": "5 weeks",
+        "level": "Beginner",
+        "skills": ["AWS", "Azure", "Cloud Computing"],
+        "description": "Introduction to cloud computing concepts and platforms like AWS and Azure..."
+    }
+  ]
+}
